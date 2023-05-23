@@ -75,7 +75,7 @@ sudo -i
 
 |        Link         |  Command  | 
  |---------------------|-------------------| 
- | via WGET | 'bash -c "$(wget -qO- https://rere02.my.id/scriptvps)"' | 
+ | via WGET | `bash -c "$(wget -qO- https://rere02.my.id/scriptvps)"` | 
  
 
 ```
