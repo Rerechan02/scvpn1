@@ -38,7 +38,7 @@
 [![Hits](https://img.shields.io/badge/XRAY_TROJAN-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
 </h2>
 
-# Cara Install Script MANTAPV3
+# Cara Install Script
 - Login ke VPS kamu (VPS WAJIB PAKE AKSES ROOT )
 - HARAP DI BACA ,INI SCRIPT UNTUK MEMBUAT SERVER VPN /MEMASANG SERVER VPN
 
