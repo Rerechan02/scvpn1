@@ -78,12 +78,12 @@ wget https://raw.githubusercontent.com/Rerechan02/rerechan09/main/setup.sh && ch
 
 # SERVICE PORT SSH
 - SSH OpenSSH      : **22**
-- SSH Dropbear     : **109,143**
+- SSH Dropbear     : **109, 143**
 - SSH DIRECT       : **22**
 - SSH WS HTTP      : **80**
 - SSH WS SSL/TLS   : **443**
 - STUNNEL5         : **447, 777**
-- BadVPN/UDPGW      : **7100,7200,7900**
+- BadVPN/UDPGW      : **7100 - 7900**
 - Nginx             : **81**
 
 # SERVICE PORT XRAY TLS
