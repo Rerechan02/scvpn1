@@ -41,18 +41,18 @@ wget https://raw.githubusercontent.com/Rerechan02/scvpn1/main/setup.sh && chmod 
 <br>
 
 <br>
-```━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━                            • AutoScript by Rerechan02 •                                  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━                      >>> Service & Port                                                    - OpenSSH            : 22                                             - SSH Websocket      : 80                                             - SSH SSL Websocket  : 443                                            - Stunnel4           :  447, 777                                      - Dropbear           : 109, 143                                       - Badvpn             : 7100-7900                                      - Nginx              : 81                                             - Vmess TLS          : 443                                            - Vmess None TLS     : 80                                             - Vless TLS          : 443                                            - Vless None TLS     : 80                                             - Trojan GRPC        : 443                                            - Trojan WS          : 443                                            - Trojan Go          : 443                                                                                                                  >>> Server Information & Other Features                               - Timezone           : Asia/Jakarta (GMT +7)                          - Fail2Ban           : [ON]
-   - Dflate             : [ON]                                           - IPtables           : [ON]
-   - Auto-Reboot        : [ON]
-   - IPv6               : [OFF]                                          - Autoreboot On      : 7:00 AM GMT +7
-   - AutoKill Multi Login User
-   - Auto Delete Expired Account
-   - Fully automatic script
-   - VPS settings
-   - Admin Control
-   - Change port
-   - Full Orders For Various Services
-
-Installation time : 0 hours 1 minute's 9 seconds```
+```━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>                            • AutoScript by Rerechan02 •    <br>                              ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━                      >>> Service & Port<br>                                                    - OpenSSH            : 22 <br>                                            - SSH Websocket      : 80 <br>                                            - SSH SSL Websocket  : 443  <br>                                          - Stunnel4           :  447, 777  <br>                                    - Dropbear           : 109, 143 <br>                                      - Badvpn             : 7100-7900  <br>                                    - Nginx              : 81 <br>                                            - Vmess TLS          : 443 <br>                                           - Vmess None TLS     : 80 <br>                                            - Vless TLS          : 443 <br>                                           - Vless None TLS     : 80  <br>                                           - Trojan GRPC        : 443  <br>                                          - Trojan WS          : 443  <br>                                          - Trojan Go          : 443  <br>                                                                                                                >>> Server Information & Other Features<br>                             - Timezone           : Asia/Jakarta (GMT +7)<br>
+- Fail2Ban           : [ON]<br>
+   - Dflate             : [ON]<br>                                          - IPtables           : [ON]<br>
+   - Auto-Reboot        : [ON]<br>
+   - IPv6               : [OFF]<br>                                       - Autoreboot On      : 7:00 AM GMT +7<br>
+   - AutoKill Multi Login<br>
+   - Auto Delete Expired Account<br>
+   - Fully automatic script<br>
+   - VPS settings<br>
+   - Admin Control<br>
+   - Change port<br>
+   - Full Orders For Various Services<br>
+```
 <br>
 </b>
