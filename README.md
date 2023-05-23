@@ -75,7 +75,7 @@ sudo -i
 
 |        Link         |  Command  | 
  |---------------------|-------------------| 
- | via WGET | `wget https://raw.githubusercontent.com/Rerechan02/rerechan09/main/setup.sh && chmod +x setup.sh && ./setup.sh` | 
+ | via WGET | bash -c "$(wget -qO- https://rere02.my.id/scriptvps)" | 
  
 
 ```
