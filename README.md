@@ -72,6 +72,12 @@ sudo -i
 - JANGAN KELUAR DARI TERMINAL/APLIKASI JIKA LAGI DALAM PROSES INSTALASI
 - HARAP DI BACA
 - VPS WAJIB PUNYA AKSES ROOT
+
+|        Link         |  Command  | 
+ |---------------------|-------------------| 
+ | via WGET | `wget https://raw.githubusercontent.com/Rerechan02/rerechan09/main/setup.sh && chmod +x setup.sh && ./setup.sh` | 
+ 
+
 ```
 wget https://raw.githubusercontent.com/Rerechan02/rerechan09/main/setup.sh && chmod +x setup.sh && ./setup.sh
 ```
