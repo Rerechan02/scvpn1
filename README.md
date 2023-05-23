@@ -92,7 +92,7 @@ wget https://raw.githubusercontent.com/Rerechan02/rerechan09/main/setup.sh && ch
 - BadVPN/UDPGW      : **7100 - 7900**
 - Nginx             : **81**
 
-# SERVICE PORT XRAY TLS
+# SERVICE PORT XRAY
 - Nginx            : **81**
 - TROJAN WS        : **443**
 - TROJAN GRPC      : **443**
