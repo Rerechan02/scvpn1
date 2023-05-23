@@ -92,9 +92,9 @@ wget https://raw.githubusercontent.com/Rerechan02/rerechan09/main/setup.sh && ch
 - SSH DIRECT       : **22**
 - SSH WS HTTP      : **80**
 - SSH WS SSL/TLS   : **443**
-- STUNNEL5         : **447, 777**
-- BadVPN/UDPGW      : **7100 - 7900**
-- Nginx             : **81**
+- STUNNEL4         : **447, 777**
+- BadVPN/UDPGW     : **7100 - 7900**
+- Nginx            : **81**
 
 # SERVICE PORT XRAY
 - Nginx            : **81**
