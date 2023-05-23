@@ -34,14 +34,14 @@
 
   ```html
 
-wget https://raw.githubusercontent.com/Rerechan02/scvpn1/main/setup.sh && chmod +x setup.sh && ./setup.sh
+wget https://raw.githubusercontent.com/Rerechan02/rerechan09/main/setup.sh && chmod +x setup.sh && ./setup.sh
 
   ```
 
 <br>
 
 <br>
-```━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>                            • AutoScript by Rerechan02 •    <br>                              ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━                      >>> Service & Port<br>                                                    - OpenSSH            : 22 <br>                                            - SSH Websocket      : 80 <br>                                            - SSH SSL Websocket  : 443  <br>                                          - Stunnel4           :  447, 777  <br>                                    - Dropbear           : 109, 143 <br>                                      - Badvpn             : 7100-7900  <br>                                    - Nginx              : 81 <br>                                            - Vmess TLS          : 443 <br>                                           - Vmess None TLS     : 80 <br>                                            - Vless TLS          : 443 <br>                                           - Vless None TLS     : 80  <br>                                           - Trojan GRPC        : 443  <br>                                          - Trojan WS          : 443  <br>                                          - Trojan Go          : 443  <br>                                                                                                                >>> Server Information & Other Features<br>                             - Timezone           : Asia/Jakarta (GMT +7)<br>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>                            • AutoScript by Rerechan02 •    <br>                              ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━                      >>> Service & Port<br>                                                    - OpenSSH            : 22 <br>                                            - SSH Websocket      : 80 <br>                                            - SSH SSL Websocket  : 443  <br>                                          - Stunnel4           :  447, 777  <br>                                    - Dropbear           : 109, 143 <br>                                      - Badvpn             : 7100-7900  <br>                                    - Nginx              : 81 <br>                                            - Vmess TLS          : 443 <br>                                           - Vmess None TLS     : 80 <br>                                            - Vless TLS          : 443 <br>                                           - Vless None TLS     : 80  <br>                                           - Trojan GRPC        : 443  <br>                                          - Trojan WS          : 443  <br>                                          - Trojan Go          : 443  <br>                                                                                                                >>> Server Information & Other Features<br>                             - Timezone           : Asia/Jakarta (GMT +7)<br>
 - Fail2Ban           : [ON]<br>
    - Dflate             : [ON]<br>                                          - IPtables           : [ON]<br>
    - Auto-Reboot        : [ON]<br>
@@ -53,6 +53,5 @@ wget https://raw.githubusercontent.com/Rerechan02/scvpn1/main/setup.sh && chmod 
    - Admin Control<br>
    - Change port<br>
    - Full Orders For Various Services<br>
-```
 <br>
 </b>
