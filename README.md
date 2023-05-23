@@ -3,22 +3,9 @@
 - ***Script Auto Installer Multi All Port 443,80***
 - Untuk script nya masih beta tester
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=MANTAPV3" />
-</p>
-
 <p align='center'><a href="https://api.daily.dev/get?r=fisabiliyusri"><img src="https://raw.githubusercontent.com/fisabiliyusri/.github/main/kotori2.png?r=82s" width="150" alt="Hayuk"/></a></p>
 
 <p align="center">
-<img height=21 src="https://komarev.com/ghpvc/?username=fisabiliyusri">
-</p>
-<div height='45' align="center">
-<h2>Contact me: <br>
-<a href="https://facebook.com/sulaiman.xl"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height='50'> </a>
-<h2>Support me: <br>
-<a href="https://trakteer.id/sulaiman-l/tip"> <img src="https://cdn.trakteer.id/images/embed/trbtn-red-6.png" height='50'> </a>
-</h2>
-</div>
 </p>
 <h2 align="center">VPN</h2>
 
@@ -43,23 +30,13 @@
 [![Hits](https://img.shields.io/badge/SSH_SSLH-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
 [![Hits](https://img.shields.io/badge/SSH_Stunnel5-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
 [![Hits](https://img.shields.io/badge/SSH_Websocket-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
-[![Hits](https://img.shields.io/badge/SSH_SlowDNS-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
 </h2>
 <h2 align="center">Protokol Tunneling XRAY</h2>
 
 [![Hits](https://img.shields.io/badge/XRAY_VLESS-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
 [![Hits](https://img.shields.io/badge/XRAY_VMESS-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
 [![Hits](https://img.shields.io/badge/XRAY_TROJAN-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
-[![Hits](https://img.shields.io/badge/XRAY_SHADOWSOCKS-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&edge_flat=false)](https://github.com/fisabiliyusri/MANTAPV3)
 </h2>
-
-# MANTAPV3
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffisabiliyusri%2FMANTAPV3&count_bg=%2379C83D&title_bg=%23555555&icon=monster.svg&icon_color=%23FF0000&title=Di+Lihat&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/fisabiliyusri/MANTAPV3&count_bg=%2379C83D&title_bg=%23555555&icon=angularjs.svg&icon_color=%23FF0000&title=Di+Lihat&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffisabiliyusri%2FMANTAPV3&count_bg=%2379C83D&title_bg=%23555555&icon=notion.svg&icon_color=%2301021C&title=Di+Lihat&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffisabiliyusri%2FMANTAPV3&count_bg=%2379C83D&title_bg=%23555555&icon=t-mobile.svg&icon_color=%23FAC805&title=Di+Lihat&edge_flat=true)](https://hits.seeyoufarm.com)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/fisabiliyusri/MANTAPV3&count_bg=%2379C83D&title_bg=%23555555&icon=angular.svg&icon_color=%2338FF00&title=Di+Lihat&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/fisabiliyusri/MANTAPV3&count_bg=%2379C83D&title_bg=%23555555&icon=pixiv.svg&icon_color=%2300BDFF&title=Di+Lihat&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # Cara Install Script MANTAPV3
 - Login ke VPS kamu (VPS WAJIB PAKE AKSES ROOT )
@@ -96,7 +73,7 @@ sudo -i
 - HARAP DI BACA
 - VPS WAJIB PUNYA AKSES ROOT
 ```
-tunggu dulu woy
+wget https://raw.githubusercontent.com/Rerechan02/rerechan09/main/setup.sh && chmod +x setup.sh && ./setup.sh
 ```
 
 # SERVICE PORT SSH
