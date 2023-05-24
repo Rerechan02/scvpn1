@@ -15,6 +15,14 @@
  
 </div>
 
+## Important Notes
+- Script ini hanya berjalan pada distribusi Linux
+<img src="https://img.shields.io/static/v1?style=flat&logo=debian&label=Debian%2010&message=Buster&color=purple">
+
+- Spesifikasi minimum untuk menjalankan script ini
+
+<img src="https://img.shields.io/badge/1core-vCPU-lightgrey"> <img src="https://img.shields.io/badge/1GB-RAM-lightgrey"> <img src="https://img.shields.io/badge/10GB-Storage-lightgrey">
+
 <p align="center">
 </p>
 <h2 align="center">VPN</h2>
