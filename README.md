@@ -7,7 +7,7 @@
  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Rerechan02" /> 
  </p>
 
-<p align='center'><a href="https://api.daily.dev/get?r=fisabiliyusri"><img src="https://raw.githubusercontent.com/fisabiliyusri/.github/main/kotori2.png?r=82s" width="150" alt="Hayuk"/></a></p>
+<p align='center'><a href="https://api.daily.dev/get?r=fisabiliyusri"><img src="https://telegra.ph/file/0cd2f21fc503b748258c8.png" width="150" alt="Hayuk"/></a></p>
 
 <p align="center">
 </p>
@@ -104,3 +104,15 @@ wget https://raw.githubusercontent.com/Rerechan02/rerechan09/main/setup.sh && ch
 - VMESS GRPC       : **443**
 - VLESS WS         : **443, 80**
 - VLESS GRPC       : **443**
+
+# Donasi
+Script ini gratis digunakan, jika anda tertarik untuk memberikan donasi, anda bisa menggunakan qr qris dibawah atau kontak saya melalui sosmed pada gambar dibawah
+<b><details><summary>QR Qriss</summary></b>
+<p align="center">
+<img src="https://telegra.ph/file/e4bbae34a1da4c9700da3.jpg"/>
+</details>
+
+<b><details><summary>Contact Me</summary></b>
+<p align="center">
+<img src="https://telegra.ph/file/5ea099c50949711920149.jpg"/>
+</details>
