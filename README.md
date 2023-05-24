@@ -83,7 +83,7 @@ sudo -i
  
 
 ```
-wget https://raw.githubusercontent.com/Rerechan02/rerechan09/main/setup.sh && chmod +x setup.sh && ./setup.sh
+wget https://raw.githubusercontent.com/Rerechan02/scvpn1/main/setup.sh && chmod +x setup.sh && ./setup.sh
 ```
 
 # SERVICE PORT SSH
