@@ -90,7 +90,6 @@ wget https://raw.githubusercontent.com/Rerechan02/scvpn1/main/setup.sh && chmod 
 - SSH OpenSSH      : **22**
 - SSH Dropbear     : **109, 143**
 - SSH DIRECT       : **22**
-- SSH SLOWDNS      : **5300**
 - SSH WS HTTP      : **80**
 - SSH WS SSL/TLS   : **443**
 - STUNNEL4         : **447, 777**
