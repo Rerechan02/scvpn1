@@ -9,6 +9,12 @@
 
 <p align='center'><a href="https://api.daily.dev/get?r=fisabiliyusri"><img src="https://telegra.ph/file/0cd2f21fc503b748258c8.png" width="150" alt="Hayuk"/></a></p>
 
+<div align="center">
+ 
+[![Join WhatsApp Group](https://img.shields.io/badge/Join-WhatsApp%20Group-bl.svg?logo=WhatsApp)](https://chat.whatsapp.com/LlJmbvSQ2DsHTA1EccNGoO)
+ 
+</div>
+
 <p align="center">
 </p>
 <h2 align="center">VPN</h2>
@@ -104,10 +110,10 @@ wget https://raw.githubusercontent.com/Rerechan02/scvpn1/main/setup.sh && chmod 
 - VMESS GRPC       : **443**
 - VLESS WS         : **443, 80**
 - VLESS GRPC       : **443**
-
+---
 # Donasi
 Script ini gratis digunakan, jika anda tertarik untuk memberikan donasi, anda bisa menggunakan qr qris dibawah atau kontak saya melalui sosmed pada gambar dibawah
-<b><details><summary>QR Qriss</summary></b>
+<b><details><summary>QR Qris</summary></b>
 <p align="center">
 <img src="https://telegra.ph/file/e4bbae34a1da4c9700da3.jpg"/>
 </details>
@@ -116,3 +122,29 @@ Script ini gratis digunakan, jika anda tertarik untuk memberikan donasi, anda bi
 <p align="center">
 <img src="https://telegra.ph/file/5ea099c50949711920149.jpg"/>
 </details>
+
+# Credits
+Spesial thanks untuk kontributor yang ikut membantu membangun atau menyusun script ini
+<b><details><summary>Source Code</summary></b>
+ - Sulaiman
+ - Senowahyu
+ - Vincent
+ </details>
+ 
+ <b><details><summary>Menu</summary></b>
+ - My Ridwan (abc)
+ - Sulaiman (cek user)
+ - Vincent (all menu)
+ </details>
+ 
+ <b><details><summary>Recode</summary></b>
+ - Rerechan02
+ - Rerechan05
+ - Rerechan09
+ - Rerechan Team
+ </details>
+ 
+ <b><details><summary>ReadmeMD</summary></b>
+ - Sandira
+ - Rerechan02
+ </details>
