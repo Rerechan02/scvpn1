@@ -121,6 +121,14 @@ wget https://raw.githubusercontent.com/Rerechan02/scvpn1/main/setup.sh && chmod 
 - VLESS WS         : **443, 80**
 - VLESS GRPC       : **443**
 ---
+ <br> 
+   
+  SILA PASTIKAN SETTING DOMAIN DI CLOUDFLARE ANDA SEPERTI DIBAWAH (SSL/TLS SETTINGS) <br> 
+  ![image](https://user-images.githubusercontent.com/82468311/191471897-986ebe25-5330-4997-8a44-5468b422482a.png) <br> 
+  
+ ![image](https://user-images.githubusercontent.com/82468311/191472903-b55cd39a-8909-4f7c-b3ad-013cb3c91282.png) 
+  
+ <br>
 # Donasi
 Script ini gratis digunakan, jika anda tertarik untuk memberikan donasi, anda bisa menggunakan qr qris dibawah atau kontak saya melalui sosmed pada gambar dibawah
 <b><details><summary>QR Qris</summary></b>
