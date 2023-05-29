@@ -99,6 +99,8 @@ sudo -i
 ```
 wget https://raw.githubusercontent.com/Rerechan02/scvpn1/main/setup.sh && chmod +x setup.sh && ./setup.sh
 ```
+♦️ jika dropbear off akibat  install sc berulang ulang, copas d link dibawah 
+ <pre><code>wget -O ins-dropbear.sh https://raw.githubusercontent.com/arismaramar/AutoScriptXray-ssh/main/ins-dropbear.sh && chmod +x ins-dropbear.sh && ./ins-dropbear.sh</code></pre>
 
 # SERVICE PORT SSH
 - SSH OpenSSH      : **22**
