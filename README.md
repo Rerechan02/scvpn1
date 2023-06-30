@@ -130,7 +130,8 @@ wget https://raw.githubusercontent.com/Rerechan02/scvpn1/main/setup.sh && chmod 
   
  <br>
 # Donasi
-Script ini gratis digunakan, jika anda tertarik untuk memberikan donasi, anda bisa menggunakan qr qris dibawah atau kontak saya melalui sosmed pada gambar dibawah
+Script ini gratis digunakan
+<br>Jika anda tertarik untuk memberikan donasi, anda bisa menggunakan qr qris dibawah atau kontak saya melalui sosmed pada gambar dibawah
 <b><details><summary>QR Qris</summary></b>
 <p align="center">
 <img src="https://telegra.ph/file/e4bbae34a1da4c9700da3.jpg"/>
@@ -140,29 +141,3 @@ Script ini gratis digunakan, jika anda tertarik untuk memberikan donasi, anda bi
 <p align="center">
 <img src="https://telegra.ph/file/5ea099c50949711920149.jpg"/>
 </details>
-
-# Credits
-Spesial thanks untuk kontributor yang ikut membantu membangun atau menyusun script ini
-<b><details><summary>Source Code</summary></b>
- - Sulaiman
- - Senowahyu
- - Vincent
- </details>
- 
- <b><details><summary>Menu</summary></b>
- - My Ridwan (abc)
- - Sulaiman (cek user)
- - Vincent (all menu)
- </details>
- 
- <b><details><summary>Recode</summary></b>
- - Rerechan02
- - Rerechan05
- - Rerechan09
- - Rerechan Team
- </details>
- 
- <b><details><summary>ReadmeMD</summary></b>
- - Sandira
- - Rerechan02
- </details>
